@@ -1,0 +1,144 @@
+[
+ {
+  "block_id": "blk_3342841682101865104",
+  "label": 1,
+  "events": [
+   "E5",
+   "E22"
+  ],
+  "elapsed_seconds": 0.0,
+  "expected_p": 0.9987909702742319
+ },
+ {
+  "block_id": "blk_-605460442792959816",
+  "label": 1,
+  "events": [
+   "E5",
+   "E5",
+   "E5",
+   "E22",
+   "E11",
+   "E9",
+   "E11",
+   "E9"
+  ],
+  "elapsed_seconds": 35.0,
+  "expected_p": 0.015539366115990811
+ },
+ {
+  "block_id": "blk_9095333657335970069",
+  "label": 1,
+  "events": [
+   "E5",
+   "E5",
+   "E22",
+   "E5",
+   "E11",
+   "E9",
+   "E11",
+   "E9"
+  ],
+  "elapsed_seconds": 45.0,
+  "expected_p": 0.015440663143256886
+ },
+ {
+  "block_id": "blk_8146567789728509894",
+  "label": 1,
+  "events": [
+   "E5",
+   "E22"
+  ],
+  "elapsed_seconds": 0.0,
+  "expected_p": 0.9987909702742319
+ },
+ {
+  "block_id": "blk_6016967732557158192",
+  "label": 1,
+  "events": [
+   "E5",
+   "E22"
+  ],
+  "elapsed_seconds": 0.0,
+  "expected_p": 0.9987909702742319
+ },
+ {
+  "block_id": "blk_5973105990927756012",
+  "label": 0,
+  "events": [
+   "E5",
+   "E5",
+   "E5",
+   "E22",
+   "E11",
+   "E9",
+   "E11",
+   "E9"
+  ],
+  "elapsed_seconds": 43.0,
+  "expected_p": 0.017030403244607837
+ },
+ {
+  "block_id": "blk_-2863436038161997144",
+  "label": 0,
+  "events": [
+   "E5",
+   "E5",
+   "E5",
+   "E22",
+   "E11",
+   "E9",
+   "E11",
+   "E9"
+  ],
+  "elapsed_seconds": 38.0,
+  "expected_p": 0.014549613479093596
+ },
+ {
+  "block_id": "blk_2915942326972880596",
+  "label": 0,
+  "events": [
+   "E5",
+   "E5",
+   "E5",
+   "E22",
+   "E11",
+   "E9",
+   "E11",
+   "E9"
+  ],
+  "elapsed_seconds": 29.0,
+  "expected_p": 0.013861831327551205
+ },
+ {
+  "block_id": "blk_1798536152029421649",
+  "label": 0,
+  "events": [
+   "E5",
+   "E22",
+   "E5",
+   "E5",
+   "E11",
+   "E9",
+   "E11",
+   "E9"
+  ],
+  "elapsed_seconds": 21.0,
+  "expected_p": 0.0160402279465541
+ },
+ {
+  "block_id": "blk_2229071583048433415",
+  "label": 0,
+  "events": [
+   "E5",
+   "E22",
+   "E5",
+   "E5",
+   "E11",
+   "E9",
+   "E11",
+   "E9"
+  ],
+  "elapsed_seconds": 25.0,
+  "expected_p": 0.014504493912823437
+ }
+]

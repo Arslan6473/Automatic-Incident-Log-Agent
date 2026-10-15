@@ -1,0 +1,46 @@
+{
+ "model_name": "hdfs-anomaly-lgbm",
+ "model_version": "1",
+ "features": [
+  "early_E1",
+  "early_E2",
+  "early_E3",
+  "early_E4",
+  "early_E5",
+  "early_E6",
+  "early_E7",
+  "early_E8",
+  "early_E9",
+  "early_E10",
+  "early_E11",
+  "early_E12",
+  "early_E13",
+  "early_E14",
+  "early_E15",
+  "early_E16",
+  "early_E17",
+  "early_E18",
+  "early_E19",
+  "early_E20",
+  "early_E21",
+  "early_E22",
+  "early_E23",
+  "early_E24",
+  "early_E25",
+  "early_E26",
+  "early_E27",
+  "early_E28",
+  "early_E29",
+  "early_elapsed"
+ ],
+ "threshold": 0.015311297099037547,
+ "calibration": {
+  "method": "sigmoid_on_logit",
+  "a": -1.2997295986269697,
+  "b": -0.5385282398694556
+ },
+ "costs": {
+  "false_negative": 50,
+  "false_positive": 1
+ }
+}

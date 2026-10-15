@@ -1,0 +1,7 @@
+*
+!requirements-serve.txt
+!src/logagent/__init__.py
+!src/logagent/features.py
+!src/logagent/service.py
+!models/hdfs_lgbm.onnx
+!models/serving_config.json

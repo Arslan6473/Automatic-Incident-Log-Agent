@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
+data/processed/
+mlruns/
+mlflow.db
+models/*
+!models/hdfs_lgbm.onnx
+!models/serving_config.json
+!models/.gitkeep
